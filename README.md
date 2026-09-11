@@ -29,3 +29,7 @@ Anonymous report of a user potentially exfiltrating data. A disk image was provi
 
 ## Scripts
 - triage.sh: basic triage helper.
+## Usage
+To run the triage script on a target directory:
+```bash
+./triage.sh /path/to/suspect/directory
